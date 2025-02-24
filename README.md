@@ -1,6 +1,10 @@
-<h1>Prazer, você pode me chamar de David Christino</h1> <br/>
-🔭 Meu projeto atual é fazer um jogo como Tetris<br/>
-🌱 Estou aprendendo C#,JavaScript.<br/>
+<h1>Hello, you can call me David Christino</h1> <br/>
+<h2>I'm a Brazilian Junior Web/Game Developer,most of what you will see is some personal projects</h2><br/>
+🔭 My project right now is to learn Unity and React<br/>
+🌱 Still learning C#,JavaScript .<br/>
+💙SQL/PLSQL are my passion! But there's a lot to improve.<br/>
+<br/>
+Languages : Portuguese,English and learning the Russian Language<br/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCSInv&show_icons=true&theme=tokyonight)
