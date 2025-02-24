@@ -1,5 +1,5 @@
 <h1>Hello, you can call me David Christino</h1> <br/>
-<h2>I'm a Brazilian Junior Web/Game Developer,most of what you will see is some personal projects</h2><br/>
+<h2>I'm a Brazilian Junior Web/Game Developer, and most of what you'll find here are personal projects.</h2><br/>
 🔭 My project right now is to learn Unity and React<br/>
 🌱 Still learning C#,JavaScript .<br/>
 💙SQL/PLSQL are my passion! But there's a lot to improve.<br/>
